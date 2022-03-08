@@ -9,7 +9,7 @@
 
 
 ## Sobre o projeto
-Neste repositório, você encontrará na criação de um site sobre a Ada Lovelace. 
+Neste repositório, você encontrará a criação de um site sobre a Ada Lovelace. 
 
 O objetivo do projeto foi criar um site sobre a Ada Lovelace utilizando tecnologias simples como <b>HTML5, CSS3 e JavaScript</b>. O projeto foi realizado no curso "Curso Online Eu Progr{amo}", que é um curso da [PrograMaria](https://www.programaria.org/), que abrange à introdução à programação com foco em desenvolvimento web.
 
