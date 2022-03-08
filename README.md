@@ -23,11 +23,12 @@ O objetivo do projeto foi criar um site sobre a Ada Lovelace utilizando tecnolog
 <p align="center"> <img src="https://imgur.com/JKE1PRD.jpg" width="50%"/> </p>
 
 ## Licença
-O projeto se encontra sob licença MIT. Para mais detalhes, acesse <a href="https://github.com/juxxnn.png?size=100">license</a>.
+O projeto se encontra sob licença MIT. Para mais detalhes, acesse <a href="https://github.com/juxxnn/siteada-prograMaria/blob/main/LICENSE">license</a>.
 
 
 -------------------
-Feito com muito 💗 por <a href="https://github.com/juxxnn/siteada-prograMaria/blob/main/LICENSE">Juliana Silva</a>
+Feito com muito 💗 por <a href="https://github.com/juxxnn">Juliana Silva</a>
 <br>
 Gostou? Deixe uma estrelinha para ajudar o projeto ⭐
+
 
